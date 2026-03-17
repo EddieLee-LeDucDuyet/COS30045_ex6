@@ -1,7 +1,5 @@
 # COS30045 — Exercise 6: Interactive TV Energy Consumption
 
-Live site → **https://\<your-username\>.github.io/\<your-repo-name\>/**
-
 ## What's included
 
 | Exercise | Chart | Interaction |
